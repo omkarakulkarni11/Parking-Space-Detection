@@ -1,1 +1,1 @@
-256x416 38 space-emptys, 2 space-occupieds, Done. (0.244s)
+256x416 5 space-emptys, 37 space-occupieds, Done. (0.046s)
